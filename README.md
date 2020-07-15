@@ -3,7 +3,7 @@
 
 I am a developer, student, and also a friend to work with!!
 
-- 🔭 I’m currently working on few deep learning projects Do check it out, when it is up!
+- 🔭 I’m currently working on few deep learning projects. Do check it out, when it is up!
 - 🌱 I’m currently learning Robotic Process Automation (RPA) workflow
 - 👯 I’m looking to collaborate on for creating new computer vision model!
 - 🤔 I’m looking for help with creating fancy project integrating with web/mobile and deep learning algorithm!
