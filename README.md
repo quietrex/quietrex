@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**quietrex/quietrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a developer, student, and also a friend to work with!!
 
 - 🔭 I’m currently working on few deep learning projects Do check it out, when it is up!
 - 🌱 I’m currently learning Robotic Process Automation (RPA) workflow
@@ -13,5 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin, Email, GitHub
 - 😄 Pronouns: he/him
 - 📚 I read blogs/medium almost everyday!
-- ⚡ Fun fact: I have 3 🐈🐈🐈
--->
+- ⚡ Fun fact: I have 3 cats 🐈 that are in different colors.
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[website]: https://quietrex.github.io/portfolio-rex/
+[twitter]: https://twitter.com/quietrex
+[instagram]: https://instagram.com/quietrex
+[linkedin]: https://linkedin.com/in/quietrex
+
