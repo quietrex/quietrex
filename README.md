@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Rex 👋
 
 
 I am a developer, student, and also a friend to work with!!
