@@ -1,4 +1,4 @@
-### Hello, I'm Rex 👋
+### Hello, I'm Kuok Hong 👋
 
 
 I am a developer, student, and also a friend to work with!!
